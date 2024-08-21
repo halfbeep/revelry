@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.4.1",
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "sleep-promise": "^9.1.0"
+  }
 }
